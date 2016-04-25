@@ -1,0 +1,29 @@
+<application>
+  <component name="FindRecents">
+    <findStrings>
+      <find>sms_received</find>
+      <find>mintent</find>
+      <find>onreceve</find>
+      <find>setContentView</find>
+      <find>geo</find>
+      <find>geoIntent</find>
+      <find>ForResult</find>
+      <find>````</find>
+      <find>intent</find>
+      <find>startActivity</find>
+      <find>displayCounts</find>
+      <find>oncreateview</find>
+      <find>TODO</find>
+      <find>request</find>
+      <find>Textview</find>
+      <find>mUserTextView</find>
+      <find>replace</find>
+      <find>getLayoutInflater</find>
+      <find>RELEASE_WAKELOCK</find>
+      <find>id</find>
+      <find>id=</find>
+      <find>id</find>
+      <find>rectangleArea</find>
+    </findStrings>
+  </component>
+</application>

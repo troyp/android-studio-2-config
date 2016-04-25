@@ -1,0 +1,9 @@
+<application>
+  <component name="AbbreviationManager">
+    <abbreviations>
+      <action id="EditorDuplicate">
+        <abbreviation name="du" />
+      </action>
+    </abbreviations>
+  </component>
+</application>
