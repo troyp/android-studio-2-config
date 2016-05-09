@@ -2,6 +2,11 @@
   <component name="RecentProjectsManager">
     <option name="recentPaths">
       <list>
+        <option value="$USER_HOME$/Documents/androiddev1-course/code/m6-assignment-gate-a-skeleton" />
+        <option value="$USER_HOME$/Documents/androiddev1-course/code/AccountApp" />
+        <option value="$USER_HOME$/Documents/androiddev1-course/code/m5-assignment-birthday" />
+        <option value="$USER_HOME$/Documents/androiddev1-course/code/m5-assignment-birthday-probability-skeleton" />
+        <option value="$USER_HOME$/Documents/androiddev1-course/code/m4-assignment-diamond-sizes-skeleton" />
         <option value="$USER_HOME$/Documents/androiddev1-course/code/_71ee48b4957bb1f168fe60e16055731f_m3-assignment-shapes-skeleton" />
         <option value="$USER_HOME$/Documents/androiddev1-course/code/JavaForAndroidExample" />
         <option value="$USER_HOME$/AndroidStudioProjects/TheAnswer" />
@@ -12,12 +17,23 @@
     </option>
     <option name="openPaths">
       <list>
-        <option value="$USER_HOME$/Documents/androiddev1-course/code/JavaforAndroidExampleEmpty" />
+        <option value="$USER_HOME$/Documents/androiddev1-course/code/AccountApp" />
       </list>
     </option>
-    <option name="lastPath" value="$USER_HOME$/Documents/androiddev1-course/code/_71ee48b4957bb1f168fe60e16055731f_m3-assignment-shapes-skeleton" />
+    <option name="lastPath" value="$USER_HOME$/Documents/androiddev1-course/code/m6-assignment-gate-a-skeleton" />
     <option name="additionalInfo">
       <map>
+        <entry key="$USER_HOME$/Documents/androiddev1-course/code/AccountApp">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-143.2790544" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1462640194395" />
+              <option name="buildTimestamp" value="1461247200000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
         <entry key="$USER_HOME$/Documents/androiddev1-course/code/JavaForAndroidExample">
           <value>
             <RecentProjectMetaInfo>
@@ -43,11 +59,55 @@
         <entry key="$USER_HOME$/Documents/androiddev1-course/code/_71ee48b4957bb1f168fe60e16055731f_m3-assignment-shapes-skeleton">
           <value>
             <RecentProjectMetaInfo>
-              <option name="build" value="AI-143.2783836" />
+              <option name="build" value="AI-143.2790544" />
               <option name="productionCode" value="AI" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1461554307770" />
-              <option name="buildTimestamp" value="1461160800000" />
+              <option name="projectOpenTimestamp" value="1461880505080" />
+              <option name="buildTimestamp" value="1461247200000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/androiddev1-course/code/m4-assignment-diamond-sizes-skeleton">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-143.2790544" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1462178818439" />
+              <option name="buildTimestamp" value="1461247200000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/androiddev1-course/code/m5-assignment-birthday">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-143.2790544" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1462206435900" />
+              <option name="buildTimestamp" value="1461247200000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/androiddev1-course/code/m5-assignment-birthday-probability-skeleton">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-143.2790544" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1462199271564" />
+              <option name="buildTimestamp" value="1461247200000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/androiddev1-course/code/m6-assignment-gate-a-skeleton">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-143.2790544" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1462823686534" />
+              <option name="buildTimestamp" value="1461247200000" />
             </RecentProjectMetaInfo>
           </value>
         </entry>

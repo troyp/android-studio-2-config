@@ -18,7 +18,7 @@
         <option name="ID" value="Android Logcat" />
         <option name="minimizedInGrid" value="false" />
         <option name="placeInGrid" value="center" />
-        <option name="tabIndex" value="0" />
+        <option name="tabIndex" value="1" />
         <option name="window" value="0" />
       </ViewImpl>
       <ViewImpl>
@@ -46,12 +46,14 @@
         <option name="ID" value="Monitors" />
         <option name="minimizedInGrid" value="false" />
         <option name="placeInGrid" value="bottom" />
-        <option name="tabIndex" value="1" />
+        <option name="tabIndex" value="0" />
         <option name="window" value="0" />
       </ViewImpl>
-      <TabImpl />
       <TabImpl>
-        <option name="defaultIndex" value="1" />
+        <option name="bottomProportion" value="0.0" />
+      </TabImpl>
+      <TabImpl>
+        <option name="defaultIndex" value="4" />
         <option name="index" value="1" />
       </TabImpl>
       <TabImpl>
@@ -61,10 +63,6 @@
       <TabImpl>
         <option name="defaultIndex" value="3" />
         <option name="index" value="3" />
-      </TabImpl>
-      <TabImpl>
-        <option name="defaultIndex" value="4" />
-        <option name="index" value="1" />
       </TabImpl>
       <General />
     </runner>
@@ -137,7 +135,7 @@
         <option name="window" value="0" />
       </ViewImpl>
       <TabImpl>
-        <option name="rightProportion" value="0.14113598" />
+        <option name="rightProportion" value="0.13646702" />
       </TabImpl>
       <General />
     </runner>

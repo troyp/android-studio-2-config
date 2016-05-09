@@ -1,2 +1,7 @@
 port
 port.lock
+options/recentProjects.xml
+options/statistics.application.usages.xml
+options/find.xml
+tasks/
+

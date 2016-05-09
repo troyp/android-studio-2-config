@@ -24,6 +24,10 @@
       <find>id=</find>
       <find>id</find>
       <find>rectangleArea</find>
+      <find>Logic</find>
+      <find>OutputInterface</find>
+      <find>setNum</find>
+      <find>close tab</find>
     </findStrings>
   </component>
 </application>
