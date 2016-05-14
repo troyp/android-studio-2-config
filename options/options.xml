@@ -10,12 +10,12 @@
     <property name="installation.uid" value="f250bbb8-072c-41f1-b5bf-3d9c711e3486" />
     <property name="SAVED_COMPANY_DOMAIN" value="troy.example.com" />
     <property name="MobileminApi" value="22" />
-    <property name="lastTip" value="48" />
+    <property name="lastTip" value="61" />
     <property name="android.resource_dialog_splitter" value="0.8" />
     <property name="default.storage.format" value=".idea (directory based)" />
-    <property name="file.chooser.recent.files" value="$USER_HOME$/Documents/androiddev1-course/code/m6-assignment-gate-a-skeleton&#10;/home/troy/Documents/androiddev1-course/code/AccountApp&#10;/home/troy/Documents/androiddev1-course/code/m5-assignment-birthday&#10;/home/troy/Documents/androiddev1-course/code/m5-assignment-birthday-probability-skeleton&#10;/home/troy/Documents/androiddev1-course/code/m5-assignment-birthday-probability-skeleton/app/src/main/java/mooc/vandy/java4android/birthdayprob/logic/Logic.java&#10;/home/troy/Documents/androiddev1-course/code/m4-assignment-diamond-sizes-skeleton&#10;/home/troy/Documents/androiddev1-course/code/_71ee48b4957bb1f168fe60e16055731f_m3-assignment-shapes-skeleton&#10;/home/troy/AndroidStudioProjects/TheAnswer&#10;/home/troy/Documents/android-course/hw/Lab4_UILabs_plain&#10;/home/troy/Documents/android-course/hw/UserInterface/Lab4_UILabs&#10;/home/troy/Documents/android-course/hw/Lab4_UILabs&#10;/home/troy/Documents/android-course/hw/labs/UserInterface/Lab4_UILabs&#10;/home/troy/Documents/android-course/hw/coursera-android-labs-master/UserInterface/Lab4_UILabs&#10;/home/troy/Documents/android-course/hw/peer-assessments/modern-art5&#10;/home/troy/Documents/android-course/hw/peer-assessments&#10;/home/troy/Documents/android-course/hw/peer assessments/ModernArtUIProject-1&#10;/home/troy/Documents/android-course/coursera-android-labs-master-1/ModernArtUI2&#10;/home/troy/Documents/android-course/coursera-android/Examples/AppFundamentalsVideoSourceExamples&#10;/home/troy/AndroidStudioProjects/HelloAndroid&#10;/home/troy/Documents/android-course/coursera-android-labs-master/UserInterface/Lab4_UILabs&#10;/home/troy/Documents/android-course/coursera-android/Examples/UIAlertDialog&#10;/home/troy/Documents/android-course/coursera-android/Examples/HelloAndroidWithMenus&#10;/home/troy/Documents/android-course/coursera-android/Examples/FragmentDynamicLayoutWithActionBar&#10;/home/troy/Documents/android-course/coursera-android/Examples/UIGridLayout&#10;/home/troy/Documents/android-course/coursera-android/Examples/UITableLayout&#10;/home/troy/Documents/android-course/coursera-android/Examples/UIRelativeLayout&#10;/home/troy/Documents/android-course/coursera-android/Examples/UILinearLayout&#10;/home/troy/Documents/android-course/coursera-android/Examples/UIGallery&#10;/home/troy/Documents/android-course/coursera-android/Examples/UISpinner&#10;/home/troy/Documents/android-course/coursera-android/Examples/UIListView" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/.scripts/dired&#10;/home/troy/Documents/androiddev1-course/code/m8-assignment-calculator-skeleton&#10;/home/troy/Documents/androiddev1-course/code/m7-assignment-buildings-skeleton&#10;/home/troy/Documents/androiddev1-course/code/m6-assignment-gate-b-skeleton&#10;/home/troy/Documents/androiddev1-course/code/m6-assignment-gate-a-skeleton&#10;/home/troy/Documents/androiddev1-course/code/AccountApp&#10;/home/troy/Documents/androiddev1-course/code/m5-assignment-birthday&#10;/home/troy/Documents/androiddev1-course/code/m5-assignment-birthday-probability-skeleton&#10;/home/troy/Documents/androiddev1-course/code/m5-assignment-birthday-probability-skeleton/app/src/main/java/mooc/vandy/java4android/birthdayprob/logic/Logic.java&#10;/home/troy/Documents/androiddev1-course/code/m4-assignment-diamond-sizes-skeleton&#10;/home/troy/Documents/androiddev1-course/code/_71ee48b4957bb1f168fe60e16055731f_m3-assignment-shapes-skeleton&#10;/home/troy/AndroidStudioProjects/TheAnswer&#10;/home/troy/Documents/android-course/hw/Lab4_UILabs_plain&#10;/home/troy/Documents/android-course/hw/UserInterface/Lab4_UILabs&#10;/home/troy/Documents/android-course/hw/Lab4_UILabs&#10;/home/troy/Documents/android-course/hw/labs/UserInterface/Lab4_UILabs&#10;/home/troy/Documents/android-course/hw/coursera-android-labs-master/UserInterface/Lab4_UILabs&#10;/home/troy/Documents/android-course/hw/peer-assessments/modern-art5&#10;/home/troy/Documents/android-course/hw/peer-assessments&#10;/home/troy/Documents/android-course/hw/peer assessments/ModernArtUIProject-1&#10;/home/troy/Documents/android-course/coursera-android-labs-master-1/ModernArtUI2&#10;/home/troy/Documents/android-course/coursera-android/Examples/AppFundamentalsVideoSourceExamples&#10;/home/troy/AndroidStudioProjects/HelloAndroid&#10;/home/troy/Documents/android-course/coursera-android-labs-master/UserInterface/Lab4_UILabs&#10;/home/troy/Documents/android-course/coursera-android/Examples/UIAlertDialog&#10;/home/troy/Documents/android-course/coursera-android/Examples/HelloAndroidWithMenus&#10;/home/troy/Documents/android-course/coursera-android/Examples/FragmentDynamicLayoutWithActionBar&#10;/home/troy/Documents/android-course/coursera-android/Examples/UIGridLayout&#10;/home/troy/Documents/android-course/coursera-android/Examples/UITableLayout&#10;/home/troy/Documents/android-course/coursera-android/Examples/UIRelativeLayout" />
     <property name="ExpandBeforeRunStepsPanel" value="true" />
-    <property name="last.imported.location" value="$USER_HOME$/Documents/androiddev1-course/code/m6-assignment-gate-a-skeleton" />
+    <property name="last.imported.location" value="$USER_HOME$/Documents/androiddev1-course/code/m8-assignment-calculator-skeleton" />
     <property name="ChangesViewManager.DETAILS_SPLITTER_PROPORTION" value="0.5" />
     <property name="ANDROID_DEBUG_SELECTED_TAB_AndroidRunConfigurationType" value="Console" />
     <property name="decompiler.legal.notice.accepted" value="true" />
@@ -24,8 +24,8 @@
     <property name="ProjectStructure.SecondLevelElements" value="0.2" />
     <property name="project.jdk.splitter" value="0.2" />
     <property name="ProjectStructure.TopLevelElements" value="0.15" />
-    <property name="KEYMAP" value="close tab&#10;browse&#10;select&#10;up&#10;enter" />
-    <property name="LOG_FILTER_HISTORY" value="null" />
+    <property name="KEYMAP" value="duplic&#10;duplicate&#10;move caret to start&#10;move caret&#10;documentation" />
+    <property name="LOG_FILTER_HISTORY" value="\*\*&#10;***&#10;null" />
     <property name="test_tree_console_proprtion" value="0.2" />
     <property name="Gradle.Splitter.Proportion" value="0.2" />
     <property name="sm_test_statistics_table_columnsWidth0" value="75" />
@@ -34,11 +34,13 @@
     <property name="sm_test_statistics_table_columnsOrder1" value="1" />
     <property name="sm_test_statistics_table_columnsWidth2" value="75" />
     <property name="sm_test_statistics_table_columnsOrder2" value="2" />
-    <property name="android-component-compatibility-check" value="1462602670098" />
+    <property name="android-component-compatibility-check" value="1463221255842" />
     <property name="com.google.gct.enable.cloud.testing" value="true" />
     <property name="newly.installed.api.level" value="23" />
     <property name="JUnitSupport.hidePassedTests" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="MemberChooser.copyJavadoc" value="true" />
+    <property name="ShowDocumentationInToolWindow" value="false" />
+    <property name="JUnit.Splitter.Proportion" value="0.37519622" />
   </component>
 </application>

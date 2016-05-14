@@ -1,8 +1,6 @@
 <application>
   <component name="FindRecents">
     <findStrings>
-      <find>sms_received</find>
-      <find>mintent</find>
       <find>onreceve</find>
       <find>setContentView</find>
       <find>geo</find>
@@ -28,6 +26,11 @@
       <find>OutputInterface</find>
       <find>setNum</find>
       <find>close tab</find>
+      <find>j</find>
+      <find>Random</find>
+      <find>1234</find>
+      <find>open s</find>
+      <find>neighborhood</find>
     </findStrings>
   </component>
 </application>

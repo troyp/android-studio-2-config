@@ -1,126 +1,5 @@
 <application>
   <component name="StatisticsApplicationUsages">
-    <group name="Git">
-      <project id="_71ee48b4957bb1f168fe60e16055731f_m3-assignment-shapes-skeleton" values="config.push.update.all.roots.enabled,config.repo.sync.NOT_DECIDED,config.update.type.BRANCH_DEFAULT,config.save.policy.STASH,config.ssh.enabled,config.cherry-pick.autocommit.disabled,config.warn.about.detached.enabled,config.push.autoupdate.disabled,config.force.push.enabled,config.warn.about.crlf.enabled" collectionTime="1462178631071" />
-      <project id="JavaForAndroidExample" values="config.warn.about.detached.enabled,config.force.push.enabled,config.push.autoupdate.disabled,config.ssh.enabled,config.warn.about.crlf.enabled,config.cherry-pick.autocommit.disabled,config.save.policy.STASH,config.update.type.BRANCH_DEFAULT,config.repo.sync.NOT_DECIDED,config.push.update.all.roots.enabled" collectionTime="1461530103609" />
-      <project id="AccountApp" values="config.update.type.BRANCH_DEFAULT,config.save.policy.STASH,config.push.autoupdate.disabled,config.warn.about.crlf.enabled,config.cherry-pick.autocommit.disabled,config.push.update.all.roots.enabled,config.ssh.enabled,config.repo.sync.NOT_DECIDED,config.warn.about.detached.enabled,config.force.push.enabled" collectionTime="1462742073405" />
-      <project id="m5-assignment-birthday" values="config.ssh.enabled,config.push.autoupdate.disabled,config.repo.sync.NOT_DECIDED,config.force.push.enabled,config.push.update.all.roots.enabled,config.warn.about.crlf.enabled,config.cherry-pick.autocommit.disabled,config.save.policy.STASH,config.warn.about.detached.enabled,config.update.type.BRANCH_DEFAULT" collectionTime="1462209586651" />
-      <project id="m4-assignment-diamond-sizes-skeleton" values="config.update.type.BRANCH_DEFAULT,config.cherry-pick.autocommit.disabled,config.push.update.all.roots.enabled,config.save.policy.STASH,config.force.push.enabled,config.repo.sync.NOT_DECIDED,config.push.autoupdate.disabled,config.warn.about.crlf.enabled,config.ssh.enabled,config.warn.about.detached.enabled" collectionTime="1462199176895" />
-      <project id="Java for Android Example Empty" values="config.save.policy.STASH,config.ssh.enabled,config.cherry-pick.autocommit.disabled,config.push.autoupdate.disabled,config.force.push.enabled,config.push.update.all.roots.enabled,config.update.type.BRANCH_DEFAULT,config.warn.about.detached.enabled,config.warn.about.crlf.enabled,config.repo.sync.NOT_DECIDED" collectionTime="1461529845057" />
-    </group>
-    <group name="language-level">
-      <project id="JavaForAndroidExample" values="JDK_1_7" collectionTime="1461530103609" />
-      <project id="UIGallery" values="JDK_1_7" collectionTime="1440363805618" />
-      <project id="peer1" values="JDK_1_7" collectionTime="1444350936393" />
-      <project id="UISpinner" values="JDK_1_6" collectionTime="1440358706472" />
-      <project id="FragmentStaticConfigLayout" values="JDK_1_7" collectionTime="1440036386095" />
-      <project id="PermissionExampleBoom" values="JDK_1_7" collectionTime="1439730591634" />
-      <project id="FragmentDynamicLayoutWithActionBar" values="JDK_1_7" collectionTime="1440392542250" />
-      <project id="UIGridLayout" values="JDK_1_7" collectionTime="1440382375014" />
-      <project id="HelloAndroid" values="JDK_1_7" collectionTime="1443289056981" />
-      <project id="ModernArtUIProject-1" values="JDK_1_7" collectionTime="1444313443237" />
-      <project id="Lab4_UILabs" values="JDK_1_6" collectionTime="1461520614227" />
-      <project id="Lab3b_DangerousApp" values="JDK_1_6" collectionTime="1439909626222" />
-      <project id="UIRelativeLayout" values="JDK_1_7" collectionTime="1440389813589" />
-      <project id="Lab2_ActivityLab" values="JDK_1_7" collectionTime="1439678660245" />
-      <project id="Fragments" values="JDK_1_7" collectionTime="1439993340088" />
-      <project id="Java for Android Example Empty" values="JDK_1_7" collectionTime="1461529845040" />
-      <project id="_71ee48b4957bb1f168fe60e16055731f_m3-assignment-shapes-skeleton" values="JDK_1_7" collectionTime="1462178631071" />
-      <project id="UITableLayout" values="JDK_1_7" collectionTime="1440382370773" />
-      <project id="modern-art5" values="JDK_1_7" collectionTime="1444317863839" />
-      <project id="AppFundamentalsVideoSourceExamples" values="JDK_1_7" collectionTime="1439134961431" />
-      <project id="FragmentProgrammaticLayout" values="JDK_1_7" collectionTime="1440036299887" />
-      <project id="PermissionExampleBoomUser" values="JDK_1_6" collectionTime="1439730583756" />
-      <project id="HelloAndroidWithLogin" values="JDK_1_5" collectionTime="1439727711728" />
-      <project id="FragmentDynamicLayout" values="JDK_1_7" collectionTime="1440036311690" />
-      <project id="FragmentStaticLayout" values="JDK_1_7" collectionTime="1440036314390" />
-      <project id="Peer2" values="JDK_1_7" collectionTime="1444314784132" />
-      <project id="MapLocationFromContacts" values="JDK_1_7" collectionTime="1439896029836" />
-      <project id="Lab3c_FragmentsLabTestPhone" values="JDK_1_7" collectionTime="1439815502187" />
-      <project id="UILinearLayout" values="JDK_1_7" collectionTime="1440767327270" />
-      <project id="Lab3c_FragmentsLab" values="JDK_1_7" collectionTime="1440036307226" />
-      <project id="Peer4" values="JDK_1_7" collectionTime="1444315256750" />
-      <project id="ModernArtUI2" values="JDK_1_7" collectionTime="1444314083124" />
-      <project id="Peer5" values="JDK_1_7" collectionTime="1444316266576" />
-      <project id="UIAlertDialog" values="JDK_1_6" collectionTime="1440415830749" />
-      <project id="Peer3" values="JDK_1_7" collectionTime="1444315410926" />
-      <project id="UIButton" values="JDK_1_7" collectionTime="1440357209336" />
-      <project id="HelloAndroidWithMenus" values="JDK_1_5" collectionTime="1440392545277" />
-      <project id="Lab3a_IntentsLab" values="JDK_1_7" collectionTime="1439901605221" />
-      <project id="UIListView" values="JDK_1_7" collectionTime="1440773112450" />
-      <project id="Lab3c_FragmentsLabTestTablet" values="JDK_1_7" collectionTime="1439815581127" />
-      <project id="Lab3a_IntentsLabTest" values="JDK_1_7" collectionTime="1439816310301" />
-      <project id="m4-assignment-diamond-sizes-skeleton" values="JDK_1_7" collectionTime="1462199176895" />
-      <project id="MapLocation" values="JDK_1_7" collectionTime="1439889249629" />
-      <project id="AccountApp" values="JDK_1_7" collectionTime="1462742073405" />
-      <project id="TheAnswer" values="JDK_1_6" collectionTime="1461521038689" />
-      <project id="Java for Android Example" values="JDK_1_7" collectionTime="1461522346534" />
-      <project id="Peer5b" values="JDK_1_7" collectionTime="1444316238482" />
-      <project id="Lab3b_PermissionsLab" values="JDK_1_6" collectionTime="1439910781093" />
-      <project id="ModernArtUI" values="JDK_1_7" collectionTime="1440415832028" />
-      <project id="m5-assignment-birthday" values="JDK_1_7" collectionTime="1462209586651" />
-      <project id="Lab3a_MyBrowser" values="JDK_1_7" collectionTime="1439901603123" />
-    </group>
-    <group name="frameworks">
-      <project id="JavaForAndroidExample" values="android-gradle,java-gradle,android" collectionTime="1461530103562" />
-      <project id="UIGallery" values="java-gradle,android-gradle,android" collectionTime="1440363805597" />
-      <project id="peer1" values="android-gradle,android,java-gradle" collectionTime="1444350936213" />
-      <project id="UISpinner" values="android,android-gradle,java-gradle" collectionTime="1440358706441" />
-      <project id="FragmentStaticConfigLayout" values="android,java-gradle,android-gradle" collectionTime="1440036386050" />
-      <project id="PermissionExampleBoom" values="java-gradle,android-gradle,android" collectionTime="1439730591613" />
-      <project id="FragmentDynamicLayoutWithActionBar" values="android-gradle,java-gradle,android" collectionTime="1440392542230" />
-      <project id="UIGridLayout" values="java-gradle,android,android-gradle" collectionTime="1440382374994" />
-      <project id="HelloAndroid" values="android-gradle,java-gradle,android" collectionTime="1443289056693" />
-      <project id="ModernArtUIProject-1" values="android,android-gradle" collectionTime="1444313443117" />
-      <project id="Lab4_UILabs" values="java-gradle,android-gradle,android" collectionTime="1461520613974" />
-      <project id="Lab3b_DangerousApp" values="android-gradle,android,java-gradle" collectionTime="1439909626114" />
-      <project id="UIRelativeLayout" values="android,android-gradle,java-gradle" collectionTime="1440389813499" />
-      <project id="Java for Android Example" values="java-gradle,android-gradle,android" collectionTime="1461522346424" />
-      <project id="Fragments" values="android" collectionTime="1439993339859" />
-      <project id="Java for Android Example Empty" values="android,java-gradle,android-gradle" collectionTime="1461529844822" />
-      <project id="_71ee48b4957bb1f168fe60e16055731f_m3-assignment-shapes-skeleton" values="android,java-gradle,android-gradle" collectionTime="1462178631014" />
-      <project id="UITableLayout" values="android,android-gradle,java-gradle" collectionTime="1440382370371" />
-      <project id="modern-art5" values="android-gradle,android,java-gradle" collectionTime="1444317863731" />
-      <project id="FragmentProgrammaticLayout" values="android-gradle,java-gradle,android" collectionTime="1440036299576" />
-      <project id="PermissionExampleBoomUser" values="android-gradle,java-gradle,android" collectionTime="1439730583737" />
-      <project id="FragmentDynamicLayout" values="android,java-gradle,android-gradle" collectionTime="1440036311665" />
-      <project id="FragmentStaticLayout" values="java-gradle,android,android-gradle" collectionTime="1440036314372" />
-      <project id="Peer2" values="java-gradle,android-gradle,android" collectionTime="1444314784092" />
-      <project id="MapLocationFromContacts" values="android,android-gradle,java-gradle" collectionTime="1439896029800" />
-      <project id="Lab3c_FragmentsLabTestPhone" values="java-gradle,android-gradle,android" collectionTime="1439815502153" />
-      <project id="UILinearLayout" values="java-gradle,android-gradle,android" collectionTime="1440767327246" />
-      <project id="Lab3c_FragmentsLab" values="android-gradle,android,java-gradle" collectionTime="1440036307083" />
-      <project id="Peer4" values="android-gradle,android,java-gradle" collectionTime="1444315256719" />
-      <project id="ModernArtUI2" values="android-gradle,android,java-gradle" collectionTime="1444314082976" />
-      <project id="Peer5" values="android,android-gradle,java-gradle" collectionTime="1444316266538" />
-      <project id="UIAlertDialog" values="android,android-gradle,java-gradle" collectionTime="1440415830710" />
-      <project id="Peer3" values="android-gradle,android,java-gradle" collectionTime="1444315410884" />
-      <project id="UIButton" values="android-gradle,android,java-gradle" collectionTime="1440357209156" />
-      <project id="TheAnswer" values="java-gradle,android-gradle,android" collectionTime="1461521038593" />
-      <project id="HelloAndroidWithMenus" values="java-gradle,android,android-gradle" collectionTime="1440392545263" />
-      <project id="HelloAndroidWithLogin" values="android,android-gradle,java-gradle" collectionTime="1439727711624" />
-      <project id="UIListView" values="java-gradle,android-gradle,android" collectionTime="1440773112247" />
-      <project id="Lab3c_FragmentsLabTestTablet" values="android,java-gradle,android-gradle" collectionTime="1439815581103" />
-      <project id="Lab3a_IntentsLabTest" values="java-gradle,android-gradle,android" collectionTime="1439816310282" />
-      <project id="m4-assignment-diamond-sizes-skeleton" values="java-gradle,android,android-gradle" collectionTime="1462199176803" />
-      <project id="MapLocation" values="java-gradle,android,android-gradle" collectionTime="1439889249493" />
-      <project id="AccountApp" values="android,java-gradle,android-gradle" collectionTime="1462742073294" />
-      <project id="Lab2_ActivityLab" values="android,android-gradle,java-gradle" collectionTime="1439678660210" />
-      <project id="Lab3a_IntentsLab" values="java-gradle,android-gradle,android" collectionTime="1439901605108" />
-      <project id="Peer5b" values="android-gradle,android,java-gradle" collectionTime="1444316238428" />
-      <project id="Lab3b_PermissionsLab" values="android-gradle,java-gradle,android" collectionTime="1439910781060" />
-      <project id="ModernArtUI" values="android,android-gradle,java-gradle" collectionTime="1440415831764" />
-      <project id="m5-assignment-birthday" values="android-gradle,java-gradle,android" collectionTime="1462209586507" />
-      <project id="Lab3a_MyBrowser" values="java-gradle,android,android-gradle" collectionTime="1439901602846" />
-    </group>
-    <group name="run-configuration-type-temp">
-      <project id="_71ee48b4957bb1f168fe60e16055731f_m3-assignment-shapes-skeleton" values="JUnit" collectionTime="1462178631014" />
-      <project id="Lab3a_IntentsLab" values="AndroidTestRunConfigurationType" collectionTime="1439901605108" />
-      <project id="m5-assignment-birthday" values="JUnit,AndroidTestRunConfigurationType" collectionTime="1462209586507" />
-      <project id="Lab4_UILabs" values="JUnit" collectionTime="1461520613975" />
-      <project id="Lab3c_FragmentsLab" values="AndroidTestRunConfigurationType" collectionTime="1440036307083" />
-      <project id="Lab3b_PermissionsLab" values="AndroidTestRunConfigurationType,AndroidRunConfigurationType" collectionTime="1439910781060" />
-    </group>
     <group name="run-configuration-type">
       <project id="JavaForAndroidExample" values="AndroidRunConfigurationType" collectionTime="1461530103562" />
       <project id="UIGallery" values="AndroidRunConfigurationType" collectionTime="1440363805597" />
@@ -130,6 +9,7 @@
       <project id="PermissionExampleBoom" values="AndroidRunConfigurationType" collectionTime="1439730591613" />
       <project id="FragmentDynamicLayoutWithActionBar" values="AndroidRunConfigurationType" collectionTime="1440392542230" />
       <project id="UIGridLayout" values="AndroidRunConfigurationType" collectionTime="1440382374994" />
+      <project id="m6-assignment-gate-a-skeleton" values="AndroidRunConfigurationType" collectionTime="1462949512197" />
       <project id="HelloAndroid" values="AndroidRunConfigurationType" collectionTime="1443289056694" />
       <project id="Lab3b_DangerousApp" values="AndroidRunConfigurationType" collectionTime="1439909626114" />
       <project id="Lab3c_FragmentsLab" values="AndroidRunConfigurationType" collectionTime="1440036307083" />
@@ -146,6 +26,7 @@
       <project id="MapLocationFromContacts" values="AndroidRunConfigurationType" collectionTime="1439896029800" />
       <project id="Lab3c_FragmentsLabTestPhone" values="AndroidRunConfigurationType" collectionTime="1439815502153" />
       <project id="UILinearLayout" values="AndroidRunConfigurationType" collectionTime="1440767327246" />
+      <project id="m7-assignment-buildings-skeleton" values="AndroidRunConfigurationType" collectionTime="1463259166781" />
       <project id="UIButton" values="AndroidRunConfigurationType" collectionTime="1440357209157" />
       <project id="Lab2_ActivityLab" values="AndroidRunConfigurationType" collectionTime="1439678660210" />
       <project id="Peer4" values="AndroidRunConfigurationType" collectionTime="1444315256719" />
@@ -154,6 +35,7 @@
       <project id="UIAlertDialog" values="AndroidRunConfigurationType" collectionTime="1440415830710" />
       <project id="Peer3" values="AndroidRunConfigurationType" collectionTime="1444315410884" />
       <project id="Peer2" values="AndroidRunConfigurationType" collectionTime="1444314784092" />
+      <project id="AccountApp" values="AndroidRunConfigurationType" collectionTime="1462742073294" />
       <project id="HelloAndroidWithMenus" values="AndroidRunConfigurationType" collectionTime="1440392545263" />
       <project id="Lab3a_IntentsLab" values="AndroidRunConfigurationType" collectionTime="1439901605108" />
       <project id="UIListView" values="AndroidRunConfigurationType" collectionTime="1440773112248" />
@@ -162,7 +44,7 @@
       <project id="m4-assignment-diamond-sizes-skeleton" values="AndroidRunConfigurationType" collectionTime="1462199176803" />
       <project id="MapLocation" values="AndroidRunConfigurationType" collectionTime="1439889249493" />
       <project id="UIRelativeLayout" values="AndroidRunConfigurationType" collectionTime="1440389813499" />
-      <project id="AccountApp" values="AndroidRunConfigurationType" collectionTime="1462742073294" />
+      <project id="m6-assignment-gate-b-skeleton" values="AndroidRunConfigurationType" collectionTime="1463173798470" />
       <project id="TheAnswer" values="AndroidRunConfigurationType" collectionTime="1461521038593" />
       <project id="Java for Android Example" values="AndroidRunConfigurationType" collectionTime="1461522346425" />
       <project id="Peer5b" values="AndroidRunConfigurationType" collectionTime="1444316238428" />
@@ -171,78 +53,26 @@
       <project id="m5-assignment-birthday" values="AndroidRunConfigurationType" collectionTime="1462209586507" />
       <project id="Lab3a_MyBrowser" values="AndroidRunConfigurationType" collectionTime="1439901602847" />
     </group>
-    <group name="file-type">
-      <project id="JavaForAndroidExample" values="ARCHIVE,ProGuard File,IDEA_MODULE,Properties,Groovy,AIDL,JAVA,UNKNOWN,XML,PLAIN_TEXT,Images" collectionTime="1461530103608" />
-      <project id="UIGallery" values="Properties,UNKNOWN,XML,JAVA,Groovy,ARCHIVE,IDEA_MODULE,PLAIN_TEXT,Images" collectionTime="1440363805617" />
-      <project id="peer1" values="UNKNOWN,PLAIN_TEXT,JAVA,Properties,ProGuard File,Images,Groovy,IDEA_MODULE,XML,ARCHIVE,AIDL" collectionTime="1444350936338" />
-      <project id="UISpinner" values="Properties,Groovy,XML,JAVA,UNKNOWN,PLAIN_TEXT,Images,ARCHIVE,IDEA_MODULE" collectionTime="1440358706471" />
-      <project id="FragmentStaticConfigLayout" values="Images,UNKNOWN,XML,JAVA,Groovy,IDEA_MODULE,Properties,PLAIN_TEXT,ARCHIVE" collectionTime="1440036386095" />
-      <project id="PermissionExampleBoom" values="UNKNOWN,IDEA_MODULE,Properties,PLAIN_TEXT,ARCHIVE,XML,Images,JAVA,Groovy" collectionTime="1439730591634" />
-      <project id="FragmentDynamicLayoutWithActionBar" values="IDEA_MODULE,PLAIN_TEXT,XML,ARCHIVE,Properties,JAVA,Images,UNKNOWN,Groovy" collectionTime="1440392542249" />
-      <project id="UIGridLayout" values="Images,XML,UNKNOWN,IDEA_MODULE,Properties,JAVA,PLAIN_TEXT,Groovy,ARCHIVE" collectionTime="1440382375013" />
-      <project id="HelloAndroid" values="Images,ARCHIVE,UNKNOWN,ProGuard File,AIDL,IDEA_MODULE,Properties,XML,PLAIN_TEXT,JAVA,Groovy" collectionTime="1443289056908" />
-      <project id="ModernArtUIProject-1" values="PLAIN_TEXT,ARCHIVE,UNKNOWN,Groovy,AIDL,IDEA_MODULE,XML,ProGuard File,Properties,JAVA,CLASS,Images" collectionTime="1444313443220" />
-      <project id="Lab4_UILabs" values="Images,JAVA,Properties,UNKNOWN,XML,PLAIN_TEXT,ARCHIVE,Groovy,IDEA_MODULE" collectionTime="1461520614151" />
-      <project id="Lab3b_DangerousApp" values="IDEA_MODULE,JAVA,ARCHIVE,Groovy,PLAIN_TEXT,UNKNOWN,Properties,Images,XML" collectionTime="1439909626221" />
-      <project id="UIRelativeLayout" values="Properties,Groovy,XML,UNKNOWN,Images,PLAIN_TEXT,ARCHIVE,IDEA_MODULE,JAVA" collectionTime="1440389813589" />
-      <project id="Lab2_ActivityLab" values="JAVA,Images,Groovy,XML,Properties,IDEA_MODULE,UNKNOWN,ARCHIVE,PLAIN_TEXT" collectionTime="1439678660244" />
-      <project id="Fragments" values="ProGuard File,IDEA_MODULE,Native,JAVA,UNKNOWN,Images,XML,Properties,PLAIN_TEXT,ARCHIVE" collectionTime="1439993339996" />
-      <project id="Java for Android Example Empty" values="AIDL,IDEA_MODULE,PLAIN_TEXT,Properties,XML,UNKNOWN,Groovy,ProGuard File,Images,JAVA,ARCHIVE" collectionTime="1461529844930" />
-      <project id="_71ee48b4957bb1f168fe60e16055731f_m3-assignment-shapes-skeleton" values="ARCHIVE,ProGuard File,JAVA,Images,AIDL,IDEA_MODULE,Groovy,XML,PLAIN_TEXT,UNKNOWN,Properties" collectionTime="1462178631071" />
-      <project id="UITableLayout" values="Properties,IDEA_MODULE,UNKNOWN,Images,ARCHIVE,PLAIN_TEXT,XML,Groovy,JAVA" collectionTime="1440382370773" />
-      <project id="modern-art5" values="Properties,PLAIN_TEXT,Images,ProGuard File,UNKNOWN,AIDL,ARCHIVE,Groovy,IDEA_MODULE,XML,JAVA" collectionTime="1444317863838" />
-      <project id="AppFundamentalsVideoSourceExamples" values="IDEA_MODULE,UNKNOWN,XML,PLAIN_TEXT,JAVA" collectionTime="1439134961431" />
-      <project id="FragmentProgrammaticLayout" values="Images,JAVA,PLAIN_TEXT,Properties,UNKNOWN,XML,Groovy,ARCHIVE,IDEA_MODULE" collectionTime="1440036299862" />
-      <project id="PermissionExampleBoomUser" values="Images,PLAIN_TEXT,Properties,XML,Groovy,IDEA_MODULE,UNKNOWN,ARCHIVE,JAVA" collectionTime="1439730583756" />
-      <project id="HelloAndroidWithLogin" values="Properties,XML,Groovy,IDEA_MODULE,ARCHIVE,JAVA,Images,UNKNOWN,PLAIN_TEXT" collectionTime="1439727711727" />
-      <project id="FragmentDynamicLayout" values="Properties,XML,Groovy,Images,JAVA,ARCHIVE,IDEA_MODULE,UNKNOWN,PLAIN_TEXT" collectionTime="1440036311689" />
-      <project id="FragmentStaticLayout" values="JAVA,XML,Properties,UNKNOWN,Groovy,PLAIN_TEXT,IDEA_MODULE,Images,ARCHIVE" collectionTime="1440036314390" />
-      <project id="Peer2" values="IDEA_MODULE,AIDL,JAVA,PLAIN_TEXT,Properties,ProGuard File,ARCHIVE,XML,UNKNOWN,Groovy,Images" collectionTime="1444314784131" />
-      <project id="MapLocationFromContacts" values="ARCHIVE,Images,Properties,XML,JAVA,Groovy,UNKNOWN,PLAIN_TEXT,IDEA_MODULE" collectionTime="1439896029835" />
-      <project id="Lab3c_FragmentsLabTestPhone" values="JAVA,ARCHIVE,Properties,IDEA_MODULE,UNKNOWN,Images,XML,Groovy,PLAIN_TEXT" collectionTime="1439815502186" />
-      <project id="UILinearLayout" values="Images,PLAIN_TEXT,XML,Groovy,Properties,IDEA_MODULE,ARCHIVE,UNKNOWN,JAVA" collectionTime="1440767327269" />
-      <project id="Lab3c_FragmentsLab" values="PLAIN_TEXT,IDEA_MODULE,JAVA,UNKNOWN,ARCHIVE,Groovy,Properties,Images,XML" collectionTime="1440036307158" />
-      <project id="Peer4" values="AIDL,Properties,ARCHIVE,UNKNOWN,XML,Groovy,Images,ProGuard File,IDEA_MODULE,PLAIN_TEXT,JAVA" collectionTime="1444315256749" />
-      <project id="ModernArtUI2" values="Images,PLAIN_TEXT,IDEA_MODULE,Properties,Groovy,ARCHIVE,UNKNOWN,JAVA,AIDL,ProGuard File,XML" collectionTime="1444314083057" />
-      <project id="Peer5" values="Groovy,UNKNOWN,XML,ARCHIVE,IDEA_MODULE,AIDL,JAVA,PLAIN_TEXT,ProGuard File,Properties,Images" collectionTime="1444316266575" />
-      <project id="UIAlertDialog" values="IDEA_MODULE,XML,UNKNOWN,Properties,ARCHIVE,Groovy,Images,PLAIN_TEXT,JAVA" collectionTime="1440415830749" />
-      <project id="Peer3" values="Properties,UNKNOWN,AIDL,Groovy,ProGuard File,PLAIN_TEXT,ARCHIVE,JAVA,XML,IDEA_MODULE,Images" collectionTime="1444315410925" />
-      <project id="UIButton" values="PLAIN_TEXT,UNKNOWN,Properties,ARCHIVE,IDEA_MODULE,XML,Images,JAVA,Groovy" collectionTime="1440357209309" />
-      <project id="HelloAndroidWithMenus" values="XML,Groovy,IDEA_MODULE,ARCHIVE,Properties,JAVA,Images,UNKNOWN,PLAIN_TEXT" collectionTime="1440392545277" />
-      <project id="Lab3a_IntentsLab" values="ARCHIVE,Groovy,JAVA,UNKNOWN,Images,Properties,XML,PLAIN_TEXT,IDEA_MODULE" collectionTime="1439901605157" />
-      <project id="UIListView" values="Groovy,Properties,UNKNOWN,XML,ARCHIVE,IDEA_MODULE,PLAIN_TEXT,Images,JAVA" collectionTime="1440773112408" />
-      <project id="Lab3c_FragmentsLabTestTablet" values="JAVA,IDEA_MODULE,Images,UNKNOWN,XML,Groovy,PLAIN_TEXT,Properties,ARCHIVE" collectionTime="1439815581126" />
-      <project id="Lab3a_IntentsLabTest" values="UNKNOWN,ARCHIVE,JAVA,Properties,Groovy,PLAIN_TEXT,IDEA_MODULE,Images,XML" collectionTime="1439816310300" />
-      <project id="m4-assignment-diamond-sizes-skeleton" values="Images,Groovy,UNKNOWN,JAVA,AIDL,IDEA_MODULE,XML,ARCHIVE,ProGuard File,Properties,PLAIN_TEXT" collectionTime="1462199176894" />
-      <project id="MapLocation" values="UNKNOWN,Images,Properties,IDEA_MODULE,ARCHIVE,Groovy,JAVA,XML,PLAIN_TEXT" collectionTime="1439889249623" />
-      <project id="AccountApp" values="Groovy,UNKNOWN,Properties,PLAIN_TEXT,IDEA_MODULE,ARCHIVE,JAVA,XML,ProGuard File,AIDL,Images" collectionTime="1462742073405" />
-      <project id="TheAnswer" values="UNKNOWN,Images,PLAIN_TEXT,ARCHIVE,Groovy,XML,IDEA_MODULE,Properties,JAVA" collectionTime="1461521038689" />
-      <project id="Java for Android Example" values="UNKNOWN,ProGuard File,Groovy,Properties,IDEA_MODULE,ARCHIVE,PLAIN_TEXT,XML,JAVA,Images" collectionTime="1461522346512" />
-      <project id="Peer5b" values="Properties,XML,ARCHIVE,Groovy,IDEA_MODULE,JAVA,UNKNOWN,PLAIN_TEXT,Images,ProGuard File" collectionTime="1444316238481" />
-      <project id="Lab3b_PermissionsLab" values="UNKNOWN,JAVA,Images,ARCHIVE,Properties,XML,Groovy,PLAIN_TEXT,IDEA_MODULE" collectionTime="1439910781092" />
-      <project id="ModernArtUI" values="Images,UNKNOWN,PLAIN_TEXT,ProGuard File,JAVA,XML,Groovy,AIDL,IDEA_MODULE,ARCHIVE,Properties" collectionTime="1440415831778" />
-      <project id="m5-assignment-birthday" values="AIDL,UNKNOWN,Images,XML,Properties,ARCHIVE,PLAIN_TEXT,ProGuard File,Groovy,JAVA,IDEA_MODULE" collectionTime="1462209586650" />
-      <project id="Lab3a_MyBrowser" values="UNKNOWN,JAVA,ARCHIVE,Properties,PLAIN_TEXT,Images,Groovy,XML,IDEA_MODULE" collectionTime="1439901603109" />
-    </group>
     <group name="module type">
       <project id="JavaForAndroidExample" values="JAVA_MODULE" collectionTime="1461530103562" />
       <project id="UIGallery" values="JAVA_MODULE" collectionTime="1440363805597" />
       <project id="peer1" values="JAVA_MODULE" collectionTime="1444350936213" />
+      <project id="Lab3c_FragmentsLab" values="JAVA_MODULE" collectionTime="1440036307083" />
       <project id="UISpinner" values="JAVA_MODULE" collectionTime="1440358706441" />
       <project id="FragmentStaticConfigLayout" values="JAVA_MODULE" collectionTime="1440036386050" />
       <project id="PermissionExampleBoom" values="JAVA_MODULE" collectionTime="1439730591613" />
       <project id="FragmentDynamicLayoutWithActionBar" values="JAVA_MODULE" collectionTime="1440392542230" />
       <project id="UIGridLayout" values="JAVA_MODULE" collectionTime="1440382374994" />
+      <project id="m6-assignment-gate-a-skeleton" values="JAVA_MODULE" collectionTime="1462949512196" />
       <project id="HelloAndroid" values="JAVA_MODULE" collectionTime="1443289056694" />
       <project id="ModernArtUIProject-1" values="JAVA_MODULE" collectionTime="1444313443117" />
-      <project id="Lab4_UILabs" values="JAVA_MODULE" collectionTime="1461520613975" />
       <project id="Lab3b_DangerousApp" values="JAVA_MODULE" collectionTime="1439909626114" />
       <project id="UIRelativeLayout" values="JAVA_MODULE" collectionTime="1440389813499" />
-      <project id="Lab2_ActivityLab" values="JAVA_MODULE" collectionTime="1439678660210" />
       <project id="Fragments" values="JAVA_MODULE" collectionTime="1439993339860" />
       <project id="Java for Android Example Empty" values="JAVA_MODULE" collectionTime="1461529844822" />
       <project id="_71ee48b4957bb1f168fe60e16055731f_m3-assignment-shapes-skeleton" values="JAVA_MODULE" collectionTime="1462178631014" />
       <project id="UITableLayout" values="JAVA_MODULE" collectionTime="1440382370371" />
+      <project id="ModernArtUI2" values="JAVA_MODULE" collectionTime="1444314082976" />
       <project id="modern-art5" values="JAVA_MODULE" collectionTime="1444317863731" />
       <project id="AppFundamentalsVideoSourceExamples" values="JAVA_MODULE" collectionTime="1439134961319" />
       <project id="FragmentProgrammaticLayout" values="JAVA_MODULE" collectionTime="1440036299577" />
@@ -254,9 +84,10 @@
       <project id="MapLocationFromContacts" values="JAVA_MODULE" collectionTime="1439896029800" />
       <project id="Lab3c_FragmentsLabTestPhone" values="JAVA_MODULE" collectionTime="1439815502153" />
       <project id="UILinearLayout" values="JAVA_MODULE" collectionTime="1440767327246" />
-      <project id="Lab3c_FragmentsLab" values="JAVA_MODULE" collectionTime="1440036307083" />
+      <project id="m7-assignment-buildings-skeleton" values="JAVA_MODULE" collectionTime="1463259166780" />
+      <project id="Lab2_ActivityLab" values="JAVA_MODULE" collectionTime="1439678660210" />
       <project id="Peer4" values="JAVA_MODULE" collectionTime="1444315256719" />
-      <project id="ModernArtUI2" values="JAVA_MODULE" collectionTime="1444314082976" />
+      <project id="Lab4_UILabs" values="JAVA_MODULE" collectionTime="1461520613975" />
       <project id="Peer5" values="JAVA_MODULE" collectionTime="1444316266538" />
       <project id="UIAlertDialog" values="JAVA_MODULE" collectionTime="1440415830710" />
       <project id="Peer3" values="JAVA_MODULE" collectionTime="1444315410884" />
@@ -276,35 +107,227 @@
       <project id="ModernArtUI" values="JAVA_MODULE" collectionTime="1440415831764" />
       <project id="m5-assignment-birthday" values="JAVA_MODULE" collectionTime="1462209586507" />
       <project id="Lab3a_MyBrowser" values="JAVA_MODULE" collectionTime="1439901602846" />
+      <project id="m6-assignment-gate-b-skeleton" values="JAVA_MODULE" collectionTime="1463173798470" />
+    </group>
+    <group name="run-configuration-type-temp">
+      <project id="m6-assignment-gate-a-skeleton" values="JUnit" collectionTime="1462949512197" />
+      <project id="Lab3a_IntentsLab" values="AndroidTestRunConfigurationType" collectionTime="1439901605108" />
+      <project id="_71ee48b4957bb1f168fe60e16055731f_m3-assignment-shapes-skeleton" values="JUnit" collectionTime="1462178631014" />
+      <project id="m7-assignment-buildings-skeleton" values="JUnit,GradleRunConfiguration" collectionTime="1463259166781" />
+      <project id="m5-assignment-birthday" values="JUnit,AndroidTestRunConfigurationType" collectionTime="1462209586507" />
+      <project id="Lab4_UILabs" values="JUnit" collectionTime="1461520613975" />
+      <project id="Lab3c_FragmentsLab" values="AndroidTestRunConfigurationType" collectionTime="1440036307083" />
+      <project id="Lab3b_PermissionsLab" values="AndroidTestRunConfigurationType,AndroidRunConfigurationType" collectionTime="1439910781060" />
+      <project id="m6-assignment-gate-b-skeleton" values="AndroidRunConfigurationType,GradleRunConfiguration,AndroidTestRunConfigurationType,JUnit" collectionTime="1463173798471" />
+    </group>
+    <group name="file-type">
+      <project id="JavaForAndroidExample" values="IDEA_MODULE,XML,AIDL,UNKNOWN,PLAIN_TEXT,Groovy,Properties,ProGuard File,Images,ARCHIVE,JAVA" collectionTime="1461530103608" />
+      <project id="UIGallery" values="JAVA,Properties,ARCHIVE,Groovy,IDEA_MODULE,UNKNOWN,Images,XML,PLAIN_TEXT" collectionTime="1440363805617" />
+      <project id="peer1" values="JAVA,Images,Groovy,ProGuard File,Properties,UNKNOWN,XML,IDEA_MODULE,AIDL,PLAIN_TEXT,ARCHIVE" collectionTime="1444350936338" />
+      <project id="Lab3c_FragmentsLab" values="Groovy,JAVA,Images,Properties,IDEA_MODULE,UNKNOWN,PLAIN_TEXT,ARCHIVE,XML" collectionTime="1440036307158" />
+      <project id="UISpinner" values="IDEA_MODULE,Groovy,JAVA,XML,ARCHIVE,PLAIN_TEXT,Images,Properties,UNKNOWN" collectionTime="1440358706471" />
+      <project id="FragmentStaticConfigLayout" values="XML,PLAIN_TEXT,Properties,Images,ARCHIVE,UNKNOWN,JAVA,IDEA_MODULE,Groovy" collectionTime="1440036386095" />
+      <project id="PermissionExampleBoom" values="XML,PLAIN_TEXT,Groovy,Properties,ARCHIVE,IDEA_MODULE,UNKNOWN,JAVA,Images" collectionTime="1439730591634" />
+      <project id="FragmentDynamicLayoutWithActionBar" values="UNKNOWN,XML,Properties,IDEA_MODULE,ARCHIVE,JAVA,PLAIN_TEXT,Groovy,Images" collectionTime="1440392542249" />
+      <project id="UIGridLayout" values="PLAIN_TEXT,Images,IDEA_MODULE,Groovy,JAVA,ARCHIVE,Properties,UNKNOWN,XML" collectionTime="1440382375013" />
+      <project id="m6-assignment-gate-a-skeleton" values="IDEA_MODULE,Properties,AIDL,UNKNOWN,Images,XML,JAVA,Groovy,PLAIN_TEXT,ProGuard File,ARCHIVE" collectionTime="1462949512363" />
+      <project id="HelloAndroid" values="XML,ProGuard File,JAVA,Groovy,UNKNOWN,Properties,ARCHIVE,IDEA_MODULE,PLAIN_TEXT,Images,AIDL" collectionTime="1443289056908" />
+      <project id="ModernArtUIProject-1" values="Properties,Groovy,AIDL,JAVA,PLAIN_TEXT,ProGuard File,Images,CLASS,ARCHIVE,XML,UNKNOWN,IDEA_MODULE" collectionTime="1444313443220" />
+      <project id="Lab3b_DangerousApp" values="IDEA_MODULE,JAVA,ARCHIVE,Images,UNKNOWN,XML,Properties,PLAIN_TEXT,Groovy" collectionTime="1439909626221" />
+      <project id="UIRelativeLayout" values="IDEA_MODULE,XML,UNKNOWN,Properties,JAVA,Images,Groovy,PLAIN_TEXT,ARCHIVE" collectionTime="1440389813589" />
+      <project id="Fragments" values="Images,XML,Properties,ProGuard File,ARCHIVE,JAVA,IDEA_MODULE,UNKNOWN,PLAIN_TEXT,Native" collectionTime="1439993339996" />
+      <project id="Java for Android Example Empty" values="PLAIN_TEXT,Images,XML,ARCHIVE,ProGuard File,AIDL,Properties,JAVA,Groovy,UNKNOWN,IDEA_MODULE" collectionTime="1461529844930" />
+      <project id="_71ee48b4957bb1f168fe60e16055731f_m3-assignment-shapes-skeleton" values="IDEA_MODULE,Images,ARCHIVE,Groovy,XML,PLAIN_TEXT,JAVA,ProGuard File,UNKNOWN,AIDL,Properties" collectionTime="1462178631071" />
+      <project id="UITableLayout" values="Properties,ARCHIVE,UNKNOWN,Images,PLAIN_TEXT,XML,JAVA,Groovy,IDEA_MODULE" collectionTime="1440382370773" />
+      <project id="ModernArtUI2" values="Properties,Images,PLAIN_TEXT,Groovy,AIDL,UNKNOWN,XML,IDEA_MODULE,JAVA,ARCHIVE,ProGuard File" collectionTime="1444314083057" />
+      <project id="modern-art5" values="PLAIN_TEXT,ARCHIVE,JAVA,ProGuard File,AIDL,IDEA_MODULE,UNKNOWN,Images,Groovy,XML,Properties" collectionTime="1444317863838" />
+      <project id="AppFundamentalsVideoSourceExamples" values="UNKNOWN,XML,PLAIN_TEXT,IDEA_MODULE,JAVA" collectionTime="1439134961431" />
+      <project id="FragmentProgrammaticLayout" values="JAVA,UNKNOWN,ARCHIVE,Groovy,IDEA_MODULE,XML,Properties,Images,PLAIN_TEXT" collectionTime="1440036299862" />
+      <project id="PermissionExampleBoomUser" values="IDEA_MODULE,PLAIN_TEXT,UNKNOWN,XML,Images,ARCHIVE,Groovy,Properties,JAVA" collectionTime="1439730583756" />
+      <project id="HelloAndroidWithLogin" values="XML,Groovy,ARCHIVE,JAVA,IDEA_MODULE,PLAIN_TEXT,UNKNOWN,Properties,Images" collectionTime="1439727711727" />
+      <project id="FragmentDynamicLayout" values="Groovy,XML,UNKNOWN,PLAIN_TEXT,Images,JAVA,Properties,ARCHIVE,IDEA_MODULE" collectionTime="1440036311689" />
+      <project id="FragmentStaticLayout" values="IDEA_MODULE,JAVA,Properties,Images,Groovy,PLAIN_TEXT,ARCHIVE,UNKNOWN,XML" collectionTime="1440036314390" />
+      <project id="Peer2" values="Groovy,Images,UNKNOWN,XML,Properties,PLAIN_TEXT,ARCHIVE,AIDL,ProGuard File,IDEA_MODULE,JAVA" collectionTime="1444314784131" />
+      <project id="MapLocationFromContacts" values="IDEA_MODULE,Properties,Groovy,XML,UNKNOWN,ARCHIVE,JAVA,Images,PLAIN_TEXT" collectionTime="1439896029835" />
+      <project id="Lab3c_FragmentsLabTestPhone" values="IDEA_MODULE,Images,ARCHIVE,UNKNOWN,JAVA,PLAIN_TEXT,Groovy,XML,Properties" collectionTime="1439815502186" />
+      <project id="UILinearLayout" values="Images,Properties,Groovy,PLAIN_TEXT,IDEA_MODULE,UNKNOWN,XML,ARCHIVE,JAVA" collectionTime="1440767327269" />
+      <project id="m7-assignment-buildings-skeleton" values="ProGuard File,ARCHIVE,IDEA_MODULE,JAVA,Images,PLAIN_TEXT,AIDL,Groovy,Properties,XML,UNKNOWN" collectionTime="1463259167039" />
+      <project id="Lab2_ActivityLab" values="UNKNOWN,Groovy,PLAIN_TEXT,JAVA,XML,Properties,Images,ARCHIVE,IDEA_MODULE" collectionTime="1439678660244" />
+      <project id="Peer4" values="UNKNOWN,JAVA,IDEA_MODULE,Properties,PLAIN_TEXT,Images,XML,AIDL,ProGuard File,Groovy,ARCHIVE" collectionTime="1444315256749" />
+      <project id="Lab4_UILabs" values="PLAIN_TEXT,JAVA,XML,Images,Properties,ARCHIVE,UNKNOWN,Groovy,IDEA_MODULE" collectionTime="1461520614151" />
+      <project id="Peer5" values="AIDL,ProGuard File,IDEA_MODULE,PLAIN_TEXT,UNKNOWN,Groovy,Properties,ARCHIVE,JAVA,Images,XML" collectionTime="1444316266575" />
+      <project id="UIAlertDialog" values="JAVA,PLAIN_TEXT,IDEA_MODULE,XML,UNKNOWN,Groovy,Images,ARCHIVE,Properties" collectionTime="1440415830749" />
+      <project id="Peer3" values="PLAIN_TEXT,Groovy,JAVA,XML,ARCHIVE,Properties,UNKNOWN,ProGuard File,AIDL,Images,IDEA_MODULE" collectionTime="1444315410925" />
+      <project id="UIButton" values="Groovy,XML,ARCHIVE,Images,JAVA,Properties,PLAIN_TEXT,IDEA_MODULE,UNKNOWN" collectionTime="1440357209309" />
+      <project id="HelloAndroidWithMenus" values="Groovy,JAVA,IDEA_MODULE,Properties,Images,PLAIN_TEXT,UNKNOWN,XML,ARCHIVE" collectionTime="1440392545277" />
+      <project id="Lab3a_IntentsLab" values="UNKNOWN,Groovy,Images,XML,Properties,JAVA,IDEA_MODULE,PLAIN_TEXT,ARCHIVE" collectionTime="1439901605157" />
+      <project id="UIListView" values="UNKNOWN,XML,Images,ARCHIVE,JAVA,PLAIN_TEXT,Groovy,IDEA_MODULE,Properties" collectionTime="1440773112408" />
+      <project id="Lab3c_FragmentsLabTestTablet" values="XML,JAVA,Groovy,PLAIN_TEXT,UNKNOWN,Images,ARCHIVE,Properties,IDEA_MODULE" collectionTime="1439815581126" />
+      <project id="Lab3a_IntentsLabTest" values="Groovy,IDEA_MODULE,ARCHIVE,XML,PLAIN_TEXT,UNKNOWN,JAVA,Properties,Images" collectionTime="1439816310300" />
+      <project id="m4-assignment-diamond-sizes-skeleton" values="ProGuard File,AIDL,Groovy,XML,ARCHIVE,Properties,Images,JAVA,UNKNOWN,IDEA_MODULE,PLAIN_TEXT" collectionTime="1462199176894" />
+      <project id="MapLocation" values="IDEA_MODULE,Images,UNKNOWN,ARCHIVE,PLAIN_TEXT,JAVA,XML,Properties,Groovy" collectionTime="1439889249623" />
+      <project id="AccountApp" values="IDEA_MODULE,JAVA,Groovy,UNKNOWN,XML,AIDL,Properties,Images,ARCHIVE,ProGuard File,PLAIN_TEXT" collectionTime="1462742073405" />
+      <project id="TheAnswer" values="UNKNOWN,JAVA,IDEA_MODULE,ARCHIVE,XML,PLAIN_TEXT,Properties,Images,Groovy" collectionTime="1461521038689" />
+      <project id="Java for Android Example" values="Properties,PLAIN_TEXT,Images,ProGuard File,XML,UNKNOWN,IDEA_MODULE,ARCHIVE,Groovy,JAVA" collectionTime="1461522346512" />
+      <project id="Peer5b" values="ARCHIVE,IDEA_MODULE,PLAIN_TEXT,XML,Properties,Images,Groovy,UNKNOWN,JAVA,ProGuard File" collectionTime="1444316238481" />
+      <project id="Lab3b_PermissionsLab" values="IDEA_MODULE,Images,Properties,UNKNOWN,JAVA,XML,PLAIN_TEXT,ARCHIVE,Groovy" collectionTime="1439910781092" />
+      <project id="ModernArtUI" values="IDEA_MODULE,Properties,JAVA,ARCHIVE,PLAIN_TEXT,Images,ProGuard File,XML,Groovy,UNKNOWN,AIDL" collectionTime="1440415831778" />
+      <project id="m5-assignment-birthday" values="ARCHIVE,AIDL,PLAIN_TEXT,JAVA,Groovy,ProGuard File,XML,Images,IDEA_MODULE,UNKNOWN,Properties" collectionTime="1462209586650" />
+      <project id="Lab3a_MyBrowser" values="UNKNOWN,JAVA,Properties,IDEA_MODULE,ARCHIVE,PLAIN_TEXT,XML,Images,Groovy" collectionTime="1439901603109" />
+      <project id="m6-assignment-gate-b-skeleton" values="XML,ARCHIVE,Groovy,AIDL,JAVA,PLAIN_TEXT,Images,IDEA_MODULE,UNKNOWN,Properties,ProGuard File" collectionTime="1463173798627" />
+    </group>
+    <group name="Git">
+      <project id="m6-assignment-gate-a-skeleton" values="config.warn.about.detached.enabled,config.repo.sync.NOT_DECIDED,config.push.update.all.roots.enabled,config.push.autoupdate.disabled,config.update.type.BRANCH_DEFAULT,config.save.policy.STASH,config.ssh.enabled,config.force.push.enabled,config.warn.about.crlf.enabled,config.cherry-pick.autocommit.disabled" collectionTime="1462949512432" />
+      <project id="JavaForAndroidExample" values="config.repo.sync.NOT_DECIDED,config.force.push.enabled,config.warn.about.detached.enabled,config.update.type.BRANCH_DEFAULT,config.push.update.all.roots.enabled,config.ssh.enabled,config.warn.about.crlf.enabled,config.cherry-pick.autocommit.disabled,config.push.autoupdate.disabled,config.save.policy.STASH" collectionTime="1461530103609" />
+      <project id="_71ee48b4957bb1f168fe60e16055731f_m3-assignment-shapes-skeleton" values="config.update.type.BRANCH_DEFAULT,config.save.policy.STASH,config.push.update.all.roots.enabled,config.warn.about.detached.enabled,config.repo.sync.NOT_DECIDED,config.warn.about.crlf.enabled,config.push.autoupdate.disabled,config.ssh.enabled,config.cherry-pick.autocommit.disabled,config.force.push.enabled" collectionTime="1462178631071" />
+      <project id="AccountApp" values="config.ssh.enabled,config.save.policy.STASH,config.push.update.all.roots.enabled,config.warn.about.detached.enabled,config.update.type.BRANCH_DEFAULT,config.repo.sync.NOT_DECIDED,config.warn.about.crlf.enabled,config.push.autoupdate.disabled,config.cherry-pick.autocommit.disabled,config.force.push.enabled" collectionTime="1462742073405" />
+      <project id="m7-assignment-buildings-skeleton" values="config.push.update.all.roots.enabled,config.ssh.enabled,config.force.push.enabled,config.update.type.BRANCH_DEFAULT,config.repo.sync.NOT_DECIDED,config.warn.about.crlf.enabled,config.push.autoupdate.disabled,config.warn.about.detached.enabled,config.save.policy.STASH,config.cherry-pick.autocommit.disabled" collectionTime="1463259167127" />
+      <project id="m5-assignment-birthday" values="config.save.policy.STASH,config.ssh.enabled,config.push.autoupdate.disabled,config.repo.sync.NOT_DECIDED,config.cherry-pick.autocommit.disabled,config.force.push.enabled,config.update.type.BRANCH_DEFAULT,config.push.update.all.roots.enabled,config.warn.about.crlf.enabled,config.warn.about.detached.enabled" collectionTime="1462209586651" />
+      <project id="m4-assignment-diamond-sizes-skeleton" values="config.update.type.BRANCH_DEFAULT,config.repo.sync.NOT_DECIDED,config.save.policy.STASH,config.cherry-pick.autocommit.disabled,config.force.push.enabled,config.push.update.all.roots.enabled,config.warn.about.detached.enabled,config.push.autoupdate.disabled,config.warn.about.crlf.enabled,config.ssh.enabled" collectionTime="1462199176895" />
+      <project id="Java for Android Example Empty" values="config.update.type.BRANCH_DEFAULT,config.ssh.enabled,config.repo.sync.NOT_DECIDED,config.force.push.enabled,config.warn.about.detached.enabled,config.warn.about.crlf.enabled,config.save.policy.STASH,config.cherry-pick.autocommit.disabled,config.push.autoupdate.disabled,config.push.update.all.roots.enabled" collectionTime="1461529845057" />
+      <project id="m6-assignment-gate-b-skeleton" values="config.ssh.enabled,config.update.type.BRANCH_DEFAULT,config.force.push.enabled,config.warn.about.crlf.enabled,config.save.policy.STASH,config.warn.about.detached.enabled,config.cherry-pick.autocommit.disabled,config.push.autoupdate.disabled,config.repo.sync.NOT_DECIDED,config.push.update.all.roots.enabled" collectionTime="1463173798680" />
+    </group>
+    <group name="frameworks">
+      <project id="JavaForAndroidExample" values="android,java-gradle,android-gradle" collectionTime="1461530103562" />
+      <project id="UIGallery" values="android-gradle,java-gradle,android" collectionTime="1440363805597" />
+      <project id="peer1" values="android-gradle,android,java-gradle" collectionTime="1444350936213" />
+      <project id="UISpinner" values="android-gradle,java-gradle,android" collectionTime="1440358706441" />
+      <project id="FragmentStaticConfigLayout" values="java-gradle,android,android-gradle" collectionTime="1440036386050" />
+      <project id="PermissionExampleBoom" values="android,java-gradle,android-gradle" collectionTime="1439730591613" />
+      <project id="FragmentDynamicLayoutWithActionBar" values="android,android-gradle,java-gradle" collectionTime="1440392542230" />
+      <project id="UIGridLayout" values="android-gradle,android,java-gradle" collectionTime="1440382374994" />
+      <project id="m6-assignment-gate-a-skeleton" values="android,java-gradle,android-gradle" collectionTime="1462949512196" />
+      <project id="HelloAndroid" values="android,android-gradle,java-gradle" collectionTime="1443289056693" />
+      <project id="ModernArtUIProject-1" values="android-gradle,android" collectionTime="1444313443117" />
+      <project id="Lab3b_DangerousApp" values="android,java-gradle,android-gradle" collectionTime="1439909626114" />
+      <project id="Lab3c_FragmentsLab" values="android-gradle,java-gradle,android" collectionTime="1440036307083" />
+      <project id="Java for Android Example" values="android,android-gradle,java-gradle" collectionTime="1461522346424" />
+      <project id="Fragments" values="android" collectionTime="1439993339859" />
+      <project id="Java for Android Example Empty" values="android-gradle,java-gradle,android" collectionTime="1461529844822" />
+      <project id="_71ee48b4957bb1f168fe60e16055731f_m3-assignment-shapes-skeleton" values="android,java-gradle,android-gradle" collectionTime="1462178631014" />
+      <project id="UITableLayout" values="java-gradle,android,android-gradle" collectionTime="1440382370371" />
+      <project id="ModernArtUI2" values="java-gradle,android,android-gradle" collectionTime="1444314082976" />
+      <project id="modern-art5" values="android,android-gradle,java-gradle" collectionTime="1444317863731" />
+      <project id="FragmentProgrammaticLayout" values="java-gradle,android-gradle,android" collectionTime="1440036299576" />
+      <project id="PermissionExampleBoomUser" values="android,android-gradle,java-gradle" collectionTime="1439730583737" />
+      <project id="FragmentDynamicLayout" values="android-gradle,java-gradle,android" collectionTime="1440036311665" />
+      <project id="FragmentStaticLayout" values="android,java-gradle,android-gradle" collectionTime="1440036314372" />
+      <project id="Peer2" values="java-gradle,android-gradle,android" collectionTime="1444314784092" />
+      <project id="MapLocationFromContacts" values="android-gradle,java-gradle,android" collectionTime="1439896029800" />
+      <project id="Lab3c_FragmentsLabTestPhone" values="android-gradle,java-gradle,android" collectionTime="1439815502153" />
+      <project id="UILinearLayout" values="android-gradle,java-gradle,android" collectionTime="1440767327246" />
+      <project id="m7-assignment-buildings-skeleton" values="android-gradle,java-gradle,android" collectionTime="1463259166779" />
+      <project id="Lab2_ActivityLab" values="android-gradle,java-gradle,android" collectionTime="1439678660210" />
+      <project id="Peer4" values="java-gradle,android,android-gradle" collectionTime="1444315256719" />
+      <project id="Lab4_UILabs" values="android-gradle,android,java-gradle" collectionTime="1461520613974" />
+      <project id="Peer5" values="android,java-gradle,android-gradle" collectionTime="1444316266538" />
+      <project id="UIAlertDialog" values="java-gradle,android-gradle,android" collectionTime="1440415830710" />
+      <project id="Peer3" values="java-gradle,android,android-gradle" collectionTime="1444315410884" />
+      <project id="UIButton" values="java-gradle,android-gradle,android" collectionTime="1440357209156" />
+      <project id="HelloAndroidWithMenus" values="android,android-gradle,java-gradle" collectionTime="1440392545263" />
+      <project id="HelloAndroidWithLogin" values="java-gradle,android-gradle,android" collectionTime="1439727711624" />
+      <project id="UIListView" values="java-gradle,android-gradle,android" collectionTime="1440773112247" />
+      <project id="Lab3c_FragmentsLabTestTablet" values="android-gradle,android,java-gradle" collectionTime="1439815581103" />
+      <project id="Lab3a_IntentsLabTest" values="android,java-gradle,android-gradle" collectionTime="1439816310282" />
+      <project id="m4-assignment-diamond-sizes-skeleton" values="android,android-gradle,java-gradle" collectionTime="1462199176803" />
+      <project id="MapLocation" values="android-gradle,java-gradle,android" collectionTime="1439889249493" />
+      <project id="UIRelativeLayout" values="android-gradle,java-gradle,android" collectionTime="1440389813499" />
+      <project id="AccountApp" values="android,android-gradle,java-gradle" collectionTime="1462742073294" />
+      <project id="TheAnswer" values="java-gradle,android,android-gradle" collectionTime="1461521038593" />
+      <project id="Lab3a_IntentsLab" values="android,android-gradle,java-gradle" collectionTime="1439901605108" />
+      <project id="Peer5b" values="android-gradle,android,java-gradle" collectionTime="1444316238428" />
+      <project id="Lab3b_PermissionsLab" values="java-gradle,android-gradle,android" collectionTime="1439910781060" />
+      <project id="ModernArtUI" values="android-gradle,android,java-gradle" collectionTime="1440415831764" />
+      <project id="m5-assignment-birthday" values="android,java-gradle,android-gradle" collectionTime="1462209586507" />
+      <project id="Lab3a_MyBrowser" values="android-gradle,java-gradle,android" collectionTime="1439901602846" />
+      <project id="m6-assignment-gate-b-skeleton" values="android,android-gradle,java-gradle" collectionTime="1463173798470" />
+    </group>
+    <group name="language-level">
+      <project id="JavaForAndroidExample" values="JDK_1_7" collectionTime="1461530103609" />
+      <project id="UIGallery" values="JDK_1_7" collectionTime="1440363805618" />
+      <project id="peer1" values="JDK_1_7" collectionTime="1444350936393" />
+      <project id="Lab3c_FragmentsLab" values="JDK_1_7" collectionTime="1440036307226" />
+      <project id="UISpinner" values="JDK_1_6" collectionTime="1440358706472" />
+      <project id="FragmentStaticConfigLayout" values="JDK_1_7" collectionTime="1440036386095" />
+      <project id="PermissionExampleBoom" values="JDK_1_7" collectionTime="1439730591634" />
+      <project id="FragmentDynamicLayoutWithActionBar" values="JDK_1_7" collectionTime="1440392542250" />
+      <project id="UIGridLayout" values="JDK_1_7" collectionTime="1440382375014" />
+      <project id="m6-assignment-gate-a-skeleton" values="JDK_1_7" collectionTime="1462949512431" />
+      <project id="HelloAndroid" values="JDK_1_7" collectionTime="1443289056981" />
+      <project id="ModernArtUIProject-1" values="JDK_1_7" collectionTime="1444313443237" />
+      <project id="Lab3b_DangerousApp" values="JDK_1_6" collectionTime="1439909626222" />
+      <project id="UIRelativeLayout" values="JDK_1_7" collectionTime="1440389813589" />
+      <project id="Fragments" values="JDK_1_7" collectionTime="1439993340088" />
+      <project id="Java for Android Example Empty" values="JDK_1_7" collectionTime="1461529845040" />
+      <project id="_71ee48b4957bb1f168fe60e16055731f_m3-assignment-shapes-skeleton" values="JDK_1_7" collectionTime="1462178631071" />
+      <project id="UITableLayout" values="JDK_1_7" collectionTime="1440382370773" />
+      <project id="ModernArtUI2" values="JDK_1_7" collectionTime="1444314083124" />
+      <project id="modern-art5" values="JDK_1_7" collectionTime="1444317863839" />
+      <project id="AppFundamentalsVideoSourceExamples" values="JDK_1_7" collectionTime="1439134961431" />
+      <project id="FragmentProgrammaticLayout" values="JDK_1_7" collectionTime="1440036299887" />
+      <project id="PermissionExampleBoomUser" values="JDK_1_6" collectionTime="1439730583756" />
+      <project id="HelloAndroidWithLogin" values="JDK_1_5" collectionTime="1439727711728" />
+      <project id="FragmentDynamicLayout" values="JDK_1_7" collectionTime="1440036311690" />
+      <project id="FragmentStaticLayout" values="JDK_1_7" collectionTime="1440036314390" />
+      <project id="Peer2" values="JDK_1_7" collectionTime="1444314784132" />
+      <project id="MapLocationFromContacts" values="JDK_1_7" collectionTime="1439896029836" />
+      <project id="Lab3c_FragmentsLabTestPhone" values="JDK_1_7" collectionTime="1439815502187" />
+      <project id="UILinearLayout" values="JDK_1_7" collectionTime="1440767327270" />
+      <project id="m7-assignment-buildings-skeleton" values="JDK_1_7" collectionTime="1463259167112" />
+      <project id="Lab2_ActivityLab" values="JDK_1_7" collectionTime="1439678660245" />
+      <project id="Peer4" values="JDK_1_7" collectionTime="1444315256750" />
+      <project id="Lab4_UILabs" values="JDK_1_6" collectionTime="1461520614227" />
+      <project id="Peer5" values="JDK_1_7" collectionTime="1444316266576" />
+      <project id="UIAlertDialog" values="JDK_1_6" collectionTime="1440415830749" />
+      <project id="Peer3" values="JDK_1_7" collectionTime="1444315410926" />
+      <project id="UIButton" values="JDK_1_7" collectionTime="1440357209336" />
+      <project id="HelloAndroidWithMenus" values="JDK_1_5" collectionTime="1440392545277" />
+      <project id="Lab3a_IntentsLab" values="JDK_1_7" collectionTime="1439901605221" />
+      <project id="UIListView" values="JDK_1_7" collectionTime="1440773112450" />
+      <project id="Lab3c_FragmentsLabTestTablet" values="JDK_1_7" collectionTime="1439815581127" />
+      <project id="Lab3a_IntentsLabTest" values="JDK_1_7" collectionTime="1439816310301" />
+      <project id="m4-assignment-diamond-sizes-skeleton" values="JDK_1_7" collectionTime="1462199176895" />
+      <project id="MapLocation" values="JDK_1_7" collectionTime="1439889249629" />
+      <project id="AccountApp" values="JDK_1_7" collectionTime="1462742073405" />
+      <project id="TheAnswer" values="JDK_1_6" collectionTime="1461521038689" />
+      <project id="Java for Android Example" values="JDK_1_7" collectionTime="1461522346534" />
+      <project id="Peer5b" values="JDK_1_7" collectionTime="1444316238482" />
+      <project id="Lab3b_PermissionsLab" values="JDK_1_6" collectionTime="1439910781093" />
+      <project id="ModernArtUI" values="JDK_1_7" collectionTime="1440415832028" />
+      <project id="m5-assignment-birthday" values="JDK_1_7" collectionTime="1462209586651" />
+      <project id="Lab3a_MyBrowser" values="JDK_1_7" collectionTime="1439901603123" />
+      <project id="m6-assignment-gate-b-skeleton" values="JDK_1_7" collectionTime="1463173798680" />
     </group>
   </component>
   <component name="UsageTrigger">
     <counts>
       <entry feature="CreateFile.CreateFileAction" count="1" />
       <entry feature="diff.DiffSettings.Tool.Unified viewer" count="1" />
-      <entry feature="diff.TextDiffSettings.IgnorePolicy.DEFAULT" count="2" />
+      <entry feature="diff.TextDiffSettings.IgnorePolicy.DEFAULT" count="4" />
       <entry feature="execute.AndroidRunConfigurationType.Debug" count="11" />
-      <entry feature="execute.AndroidRunConfigurationType.Run" count="129" />
-      <entry feature="execute.AndroidTestRunConfigurationType.Run" count="29" />
+      <entry feature="execute.AndroidRunConfigurationType.Run" count="179" />
+      <entry feature="execute.AndroidTestRunConfigurationType.Run" count="30" />
       <entry feature="execute.GradleRunConfiguration.Run" count="6" />
-      <entry feature="execute.JUnit.Run" count="18" />
+      <entry feature="execute.JUnit.Run" count="50" />
       <entry feature="ide.help.ideaInterface.editor" count="7" />
       <entry feature="ide.help.top" count="1" />
       <entry feature="ide.settings.Appearance" count="3" />
       <entry feature="ide.settings.Compiler" count="1" />
       <entry feature="ide.settings.Editor_Tabs" count="1" />
       <entry feature="ide.settings.Emmet" count="1" />
+      <entry feature="ide.settings.External_Tools" count="1" />
       <entry feature="ide.settings.General" count="1" />
-      <entry feature="ide.settings.Keymap" count="30" />
+      <entry feature="ide.settings.Keymap" count="32" />
+      <entry feature="ide.settings.Live_Templates" count="2" />
       <entry feature="ide.settings.Project_Structure" count="2" />
       <entry feature="ide.settings.Smart_Keys" count="1" />
       <entry feature="ide.settings.System_Settings" count="1" />
-      <entry feature="ideaapp.started" count="39" />
-      <entry feature="terminal.linux" count="1" />
-      <entry feature="tips.of.the.day.next" count="22" />
+      <entry feature="ideaapp.started" count="43" />
+      <entry feature="terminal.linux" count="2" />
+      <entry feature="tips.of.the.day.next" count="31" />
       <entry feature="tips.of.the.day.prev" count="6" />
       <entry feature="welcome.screen.WelcomeScreen.CreateNewProject" count="4" />
-      <entry feature="welcome.screen.WelcomeScreen.ImportProject" count="8" />
+      <entry feature="welcome.screen.WelcomeScreen.ImportProject" count="11" />
       <entry feature="welcome.screen.WelcomeScreen.OpenProject" count="1" />
     </counts>
   </component>

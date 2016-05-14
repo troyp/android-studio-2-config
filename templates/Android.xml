@@ -1,0 +1,24 @@
+<templateSet group="Android">
+  <template name="pint" value="private int &#10;" description="private int" toReformat="false" toShortenFQNames="true">
+    <context />
+  </template>
+  <template name="int" value="public int &#10;" description="public int" toReformat="false" toShortenFQNames="true">
+    <context />
+  </template>
+  <template name="str" value="public String " description="public String" toReformat="false" toShortenFQNames="true">
+    <context />
+  </template>
+  <template name="vd" value="public void $value$ {&#10;    $code$&#10;}&#10;" description="public void" toReformat="false" toShortenFQNames="true">
+    <variable name="value" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="code" expression="" defaultValue="" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="pvd" value="public void $value$ {&#10;    $code$&#10;}&#10;" description="private void" toReformat="false" toShortenFQNames="true">
+    <variable name="value" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="code" expression="" defaultValue="" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="pstr" value="private String " description="private String" toReformat="false" toShortenFQNames="true">
+    <context />
+  </template>
+</templateSet>

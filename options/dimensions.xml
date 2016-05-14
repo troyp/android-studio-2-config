@@ -17,22 +17,24 @@
     <location key="com.intellij.testIntegration.createTest.CreateTestDialog.0.0.1920.1080" x="315" y="307" />
     <location key="ProcessPopupWindow.0.0.1920.1080" x="675" y="747" />
     <location key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog.0.0.1920.1080" x="447" y="434" />
-    <location key="deploy.picker.dialog.0.0.1920.1080" x="311" y="311" />
-    <location key="#com.intellij.ide.util.MemberChooser.0.0.1920.1080" x="506" y="271" />
+    <location key="deploy.picker.dialog.0.0.1920.1080" x="315" y="196" />
+    <location key="#com.intellij.ide.util.MemberChooser.0.0.1920.1080" x="505" y="492" />
     <location key="#Intentions.0.0.1920.1080" x="293" y="214" />
     <location key="#com.intellij.structuralsearch.plugin.replace.ui.ReplaceDialog.0.0.1920.1080" x="341" y="243" />
     <location key="#com.intellij.structuralsearch.plugin.ui.SearchDialog.0.0.1920.1080" x="341" y="314" />
+    <location key="com.intellij.openapi.editor.actions.MultiplePasteAction$1.0.0.1920.1080" x="531" y="180" />
+    <location key="#com.intellij.tools.ToolEditorDialog.0.0.1920.1080" x="72" y="312" />
     <size key="AndroidExtendedDeviceChooserDialog.0.0.1920.1080" width="478" height="452" />
     <size key="FileChooserDialogImpl.0.0.1920.1080" width="943" height="669" />
     <size key="SettingsEditor.0.0.1920.1080" width="1026" height="688" />
-    <size key="GridCell.Tab.0.left.0.0.1920.1080" width="1351" height="283" />
-    <size key="GridCell.Tab.0.center.0.0.1920.1080" width="1351" height="283" />
-    <size key="GridCell.Tab.0.right.0.0.1920.1080" width="1351" height="283" />
-    <size key="GridCell.Tab.0.bottom.0.0.1920.1080" width="1351" height="283" />
-    <size key="GridCell.Tab.1.left.0.0.1920.1080" width="667" height="255" />
-    <size key="GridCell.Tab.1.center.0.0.1920.1080" width="667" height="255" />
-    <size key="GridCell.Tab.1.right.0.0.1920.1080" width="667" height="255" />
-    <size key="GridCell.Tab.1.bottom.0.0.1920.1080" width="667" height="255" />
+    <size key="GridCell.Tab.0.left.0.0.1920.1080" width="1874" height="292" />
+    <size key="GridCell.Tab.0.center.0.0.1920.1080" width="1874" height="292" />
+    <size key="GridCell.Tab.0.right.0.0.1920.1080" width="1874" height="292" />
+    <size key="GridCell.Tab.0.bottom.0.0.1920.1080" width="1874" height="292" />
+    <size key="GridCell.Tab.1.left.0.0.1920.1080" width="1351" height="207" />
+    <size key="GridCell.Tab.1.center.0.0.1920.1080" width="1351" height="207" />
+    <size key="GridCell.Tab.1.right.0.0.1920.1080" width="1351" height="207" />
+    <size key="GridCell.Tab.1.bottom.0.0.1920.1080" width="1351" height="207" />
     <size key="GridCell.Tab.2.left.0.0.1920.1080" width="1211" height="256" />
     <size key="GridCell.Tab.2.center.0.0.1920.1080" width="1211" height="256" />
     <size key="GridCell.Tab.2.right.0.0.1920.1080" width="1211" height="256" />
@@ -58,6 +60,7 @@
     <size key="#Intentions.0.0.1920.1080" width="804" height="683" />
     <size key="#com.intellij.structuralsearch.plugin.replace.ui.ReplaceDialog.0.0.1920.1080" width="708" height="626" />
     <size key="#com.intellij.structuralsearch.plugin.ui.SearchDialog.0.0.1920.1080" width="708" height="484" />
+    <size key="com.intellij.openapi.editor.actions.MultiplePasteAction$1.0.0.1920.1080" width="328" height="751" />
     <extendedState key="dock-window-1" state="0" />
   </component>
 </application>
